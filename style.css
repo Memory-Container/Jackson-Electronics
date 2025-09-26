@@ -1,6 +1,6 @@
 input {
     padding: 2px;
-    width: 130px;
+    width: 120px;
 }
 select {
     padding: 3px;
@@ -9,19 +9,19 @@ input.checkbox {
     width: 15px;
 }
 input.left {
-    margin-left: 120px;
+    margin-left: 110px;
 }
 input.long {
-    width: 230px;
+    width: 220px;
 }
 input.normal {
-    width: 170px;
+    width: 160px;
 }
 input.not-that-short {
-    width: 150px;
+    width: 140px;
 }
 input.short {
-    width: 70px;
+    width: 60px;
 }
 hr {
     border: 1px solid gray;
